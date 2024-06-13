@@ -1,0 +1,20 @@
+fastapi == 0.101.1
+pydantic == 1.10.9
+gunicorn
+uvicorn == 0.23.2
+pytest
+pre-commit
+requests
+celery
+aiofiles
+redis
+cassandra-driver
+dateparser
+pandas
+requests_html
+selenium
+python-dotenv
+python-slugify
+email-validator
+argon2-cffi
+python-jose[cryptography]
